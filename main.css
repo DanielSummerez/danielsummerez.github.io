@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative');
+.about-text {
+  font-size:24px;
+  color:skyblue;
+}
+.logo {
+  font-size:64px;
+  text-align:center;
+  font-family:'Cinzel Decorative'
+}
+body {
+  background:skyblue;
+}
+img {
+  margin-left:345px;
+  margin-right:345px;
+  width: 350px;
+  border:50px solid gold;
+  border-radius:45px;  
+}
+p {
+  font-size:24px;
+}
+body {
+  width: 1024px;
+}
